@@ -1,4 +1,4 @@
-# GovLens - AI Government Document Navigator
+# document_navigator
 
 GovLens is an MVP for understanding government documents.
 
