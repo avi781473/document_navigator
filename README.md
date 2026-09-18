@@ -1,6 +1,6 @@
 # document_navigator
 
-GovLens is an MVP for understanding government documents.
+It is an MVP for understanding government documents.
 
 ## Architecture & Tech Stack
 
@@ -44,11 +44,3 @@ uvicorn app.main:app --reload
 cd frontend
 npm install
 npm run dev
-```
-
-## Status
-- [x] Backend MVP architecture setup
-- [x] RAG Ingestion Pipeline (Upload, extract, chunk, embed, store)
-- [x] Chat API with RAG retrieval and structured LLM responses
-- [x] Database schemas
-- [ ] Frontend Implementation (Landing, Chat, Upload) - **Pending**
